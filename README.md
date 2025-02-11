@@ -46,5 +46,5 @@ The **Healthcare Analysis Dashboard** provides a comprehensive visualization of 
 4. Customize filters and settings as needed.
 5. Analyze insights and generate reports.
 
-## 📧 Contact
-For any queries or feedback, reach out to **Muhammad Shahzad**.
+## 📬 Contact
+For any questions or collaboration inquiries, reach out via **[LinkedIn](https://www.linkedin.com/in/mshahzad21/)**.
